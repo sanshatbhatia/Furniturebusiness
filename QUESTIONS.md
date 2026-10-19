@@ -1,53 +1,50 @@
-# Questions before we build
+# Questions and answers
 
-Fill the answers in under each question. Part B needs dad.
+Answers so far, then what is still open. Anything open gets an editable default in the app.
 
-## A. Decisions (you)
+## Decisions
 
-1. Will you first try the free tools as they are, on one real job?
-   - CabinetDrafter: https://github.com/andyseubert/cabinet-drafter
-   - WoodworkingShop: https://rajwanyair.github.io/WoodworkingShop/
-2. Will you also ask the Pune reseller (Magnacamz) for the free Haixun demo, to see the real thing?
-3. If we build, OK to start from one of these free MIT-licensed tools instead of from zero?
-4. Is the scope OK: wall -> cabinets -> cut list -> hardware -> quote -> PDF on WhatsApp?
-5. Who will use it day to day (dad, you, a site supervisor)? How comfortable are they with apps?
-6. Which language: English, Hindi or both?
-7. Which device: phone at the site, laptop in the shop, or both? Is there internet at sites?
+| # | Question | Answer |
+|---|---|---|
+| 1 | Try CabinetDrafter / WoodworkingShop on a real job first? | Yes |
+| 2 | Haixun demo from the Pune reseller? | Will try; assume we can't get it |
+| 3 | Build on a free tool, or from scratch? | From scratch, our own |
+| 4 | Scope: wall -> cabinets -> cut list -> hardware -> quote -> WhatsApp PDF | OK |
+| 5 | Who uses it? | People aged late 30s to early 50s, comfortable with Facebook only |
+| 6 | Language | Hindi + English mix, with a Hindi / English switch |
+| 7 | Device | Phone at the site, sometimes a laptop. Internet available |
 
-## B. The shop (dad)
+## The shop
 
-### Cutting
-8. How are boards cut today: by hand, own panel saw, own CNC, or by the board dealer?
-9. Sheet size used (8x4 ft?) and saw blade thickness (kerf)?
-10. Measuring in feet/inches or mm?
+| # | Question | Answer |
+|---|---|---|
+| 8 | How are boards cut? | By hand today, panel saw planned. Build for panel saw (and CNC later) |
+| 9 | Sheet size | 8 x 4 ft (2440 x 1220 mm) |
+| 10 | Units | mm |
+| 11 | Carcass board | HDHMR, MDF or ply. 18 or 22 mm usually; thickness is an editable box |
+| 12 | Back panel | 6 or 8 mm, grooved in; varies by design (wardrobe, TV unit, kitchen) |
+| 14 | Standard heights / depths | To confirm later; depends on design. Editable defaults |
+| 15 | Shutters | Overlay |
+| 16 | Edge banding | Front edge (fascia) gets edge band tape, 0.8 to 2 mm |
+| 17 | Legs / skirting / plinth, fillers | Legs or skirting, depends on design. Fillers at the walls always |
+| 19 | Hinges | Usually soft-close |
+| 20 | Channels or tandem boxes | Depends on the customer's budget and design; offer both |
+| 21 | Handles | Customer picks; 4 to 12 inches or more |
+| 22 | How he quotes | Per square metre, or material + labour |
+| 23 | GST | 18% |
 
-### How he builds a cabinet
-11. Carcass board: which type (ply grade / HDHMR / MDF / particle board) and thickness?
-12. Back panel: thickness, and is it grooved in or nailed on?
-13. Do the sides stand on the bottom panel, or does the bottom sit between the sides?
-14. Standard sizes: base unit height and depth, wall unit height and depth, tall unit, loft?
-15. Shutters: material (laminate / acrylic / PU / membrane), full overlay or inset, gap between shutters?
-16. Edge banding: which edges get it, and what thickness?
-17. Legs + skirting, or a plinth? Fillers at walls?
-18. Countertop: part of his quote, or someone else's?
+## Still open
 
-### Hardware
-19. Hinges: how many per door by door height? Brand? Soft-close?
-20. Drawers: channels or tandem boxes? Baskets, corner units, pull-outs he uses often?
-21. Handles: knobs, profile handles, G-profile, handle-less?
-
-### Pricing
-22. How does he quote now: per running foot, per sq ft, or material + labour?
-23. Labour charge, his margin, GST?
-24. Current price list for boards and hardware (or the dealer's rate card)?
-
-## C. Testing
-
-25. Can he give us 2-3 finished jobs: measurements, his cut list, and the actual material bill?
-    The app is not ready until its numbers match these.
-
-## D. Optional
-
-26. Want the environment's network to allow hisoonsoft.com, hn.algolia.com and itunes.apple.com,
-    so the remaster scripts can read them? (Settings: cloud environment menu -> Edit -> Network access.)
-    Probably not needed.
+- 12b. Back panel: is "between walls / nailed on the wall" about the back panel, or about how the cabinet is fixed in the room? Is a TV unit built with no back panel?
+- 13. Sides on the bottom (bottom 600, sides 702) or bottom between the sides (bottom 564, sides 720)? Same for the top.
+- 15b. Shutter material (laminate / acrylic / PU / membrane ...)
+- 15c. Gaps: between two shutters, at outer edges, top/bottom (default 3 / 1.5 / 1.5 mm)
+- 16b. Do shutters get edge band on all 4 edges? Is the band thickness taken off the cut size?
+- 18. Countertop: in his quote or not?
+- 19b. Hinges per door by door height (default: 2 up to 900 mm, 3 up to 1500, 4 up to 2000)
+- 22b. Per square metre or per square foot? Area of what: the cabinet front (width x height)?
+- 23b. Labour charge, margin
+- 24. Price list for boards and hardware
+- 25. 2-3 finished jobs to test against
+- Kerf (saw cut width, default 4 mm) and edge trim of the sheet (default 0)
+- Who exactly: dad and staff only, or customers too?
