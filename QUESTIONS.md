@@ -40,10 +40,13 @@ Answers so far, then what is still open. Anything open gets an editable default 
 | 16b | Carcass front edge cut smaller by tape thickness? | Yes, same as shutters |
 | 14b | Starting sizes (height x depth): base 720 x 560, wall 720 x 300, tall 2100 x 560, loft 450 x 300 | OK |
 | T | Sheet edge trim | 0 mm |
+| W | L / U kitchens: each wall handled separately in v1? | Yes |
+| G | Wood-grain boards that can't be turned on the sheet? | Yes, some boards have grain |
 
 ## Still open
 
 - 13d. Is the 300 mm floor gap also for kitchen base units? 720 + 300 puts the counter near 1040 mm; kitchen counters are usually 850 to 900 mm
+- G2. On grained boards, does the grain run vertically on shutters and sides? (default yes)
 - 15c. Gaps: between two shutters, at outer edges, top/bottom (default 3 / 1.5 / 1.5 mm). Answer later
 - 22b. Per square metre or per square foot? Area of what: the cabinet front (width x height)? Rate?
 - 23b. Labour charge, margin

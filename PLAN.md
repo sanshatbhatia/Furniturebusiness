@@ -17,7 +17,7 @@ An app that turns a measured wall into a cut list, hardware list and quote, for 
 
 1. **Jobs**: list of jobs, "New job"
 2. **Customer**: name, phone, site
-3. **Wall**: length and height in mm (one wall first, more walls later)
+3. **Walls**: length and height in mm; L / U kitchens are entered as separate walls
 4. **Cabinets**: tap picture tiles (base, wall, tall, loft, drawer unit); they line up on the wall; leftover shows as a filler
 5. **Cabinet details**: width / height / depth, board + thickness, shutters, drawers (channel or tandem), handle (4 to 12 inch), legs or skirting
 6. **Result**: cut list by board, hardware list, edge band metres, sheets needed
@@ -41,6 +41,7 @@ An app that turns a measured wall into a cut list, hardware list and quote, for 
 | Fillers | always; width = leftover wall length |
 | Starting sizes | base 720 x 560, wall 720 x 300, tall 2100 x 560, loft 450 x 300 (height x depth) |
 | Sheet | 2440 x 1220 mm, kerf 2.5 mm, edge trim 0 |
+| Grain | each board marked grained or not; grained parts never turned on the sheet; grain vertical on shutters and sides |
 
 ## Panel saw note
 
