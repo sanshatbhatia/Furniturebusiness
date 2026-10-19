@@ -36,14 +36,15 @@ Answers so far, then what is still open. Anything open gets an editable default 
 | 22 | How he quotes | Per square metre, or material + labour |
 | 23 | GST | 18% |
 | K | Saw cut width (kerf) | 2.5 mm |
+| 13c | Floor gap | 300 mm left open under the units for cleaning |
+| 16b | Carcass front edge cut smaller by tape thickness? | Yes, same as shutters |
+| 14b | Starting sizes (height x depth): base 720 x 560, wall 720 x 300, tall 2100 x 560, loft 450 x 300 | OK |
+| T | Sheet edge trim | 0 mm |
 
 ## Still open
 
-- 13c. "300 mm at the bottom": what is the 300 mm?
+- 13d. Is the 300 mm floor gap also for kitchen base units? 720 + 300 puts the counter near 1040 mm; kitchen counters are usually 850 to 900 mm
 - 15c. Gaps: between two shutters, at outer edges, top/bottom (default 3 / 1.5 / 1.5 mm). Answer later
-- 16b. Is the carcass front edge also cut smaller by the tape thickness, like shutters?
-- 14b. OK to start from these sizes? Base 720 high x 560 deep, wall 720 x 300, tall 2100 x 560, loft 450 x 300
-- T. Sheet edge trim: how many mm off each edge (default 0)?
 - 22b. Per square metre or per square foot? Area of what: the cabinet front (width x height)? Rate?
 - 23b. Labour charge, margin
 - 18. Countertop: in his quote or not?

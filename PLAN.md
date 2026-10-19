@@ -37,6 +37,7 @@ An app that turns a measured wall into a cut list, hardware list and quote, for 
 | Hinges | soft-close; 2 up to 900 mm door height, 3 up to 1500, 4 up to 2000 |
 | Handles | 1 per shutter / drawer |
 | Legs | 4 per base cabinet |
+| Floor gap | 300 mm for cleaning (check for kitchen base units) |
 | Fillers | always; width = leftover wall length |
 | Starting sizes | base 720 x 560, wall 720 x 300, tall 2100 x 560, loft 450 x 300 (height x depth) |
 | Sheet | 2440 x 1220 mm, kerf 2.5 mm, edge trim 0 |
