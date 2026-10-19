@@ -1,0 +1,35 @@
+feature,area,priority,original,clone,notes
+Create a customer job / project,projects,must,yes,no,
+Enter room walls (length height) in ft/in or mm,space,must,yes,no,shop likely mixes feet and mm
+Mark openings on a wall (window door pipe chimney),space,must,guess,no,
+Cabinet library: base / wall / tall / corner / drawer units,design,must,yes,no,build from dad's real standard sizes
+Parametric cabinet: change w/h/d and board thickness,design,must,yes,no,
+Auto-fit cabinets along a wall and show leftover gap / filler,design,must,yes,no,their size association
+Derive every panel from a cabinet (sides top bottom back shelves shutters),reports,must,yes,no,core rule engine; needs dad's construction rules
+Hardware auto-count (hinges per door height / channels per drawer / handles / legs),reports,must,yes,no,
+Cut list per board type and thickness,reports,must,yes,no,
+Hardware list,reports,must,yes,no,
+Quotation with material + hardware + labour + margin,reports,must,yes,no,
+Material and hardware price list the shop can edit,settings,must,yes,no,
+Export cut list / quote to PDF and Excel,reports,must,yes,no,
+2D top-view / elevation drawing of the wall,design,should,yes,no,
+Simple 3D view of the design,design,should,yes,no,
+Sheet nesting on 8x4 sheets with saw kerf and utilisation %,production,should,yes,no,
+Grain direction respected in nesting,production,should,yes,no,
+Edge banding per edge and total edge band length,reports,should,yes,no,
+Save any cabinet as a reusable custom module,design,should,yes,no,
+Corner cabinets and angled cuts,design,should,yes,no,
+Works on a phone/tablet at the site,platform,should,no,no,original is Windows desktop only; this would be an improvement
+Shareable quote link / PDF for the customer on WhatsApp,sharing,should,no,no,not in original; useful in practice
+Panel labels for printing (job cabinet panel size edge),production,could,yes,no,
+Exploded drawing of each cabinet,design,could,yes,no,
+QR code on cut list opening the cabinet view,design,could,yes,no,
+Leftover / offcut stock tracking,production,could,yes,no,
+Multiple rooms per job (kitchen + wardrobe),projects,could,yes,no,
+Hardware hole collision check,design,could,yes,no,only matters with CNC drilling
+CNC G-code / saw / PTP / 5-6 sided drill export,production,could,yes,skip,only if the shop buys a CNC; machine specific
+Door plank carving CNC,production,could,yes,skip,separate product; needs CNC
+Photoreal cloud rendering,design,could,yes,skip,big effort; simple 3D is enough
+Production ERP,operations,could,yes,skip,factory scale
+Packaging scan check and box labels,operations,could,yes,skip,factory scale
+Their cloud cabinet model library,design,could,yes,skip,their content; build our own
