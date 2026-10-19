@@ -29,15 +29,17 @@ An app that turns a measured wall into a cut list, hardware list and quote, for 
 | Rule | Default |
 |---|---|
 | Board thickness | 18 mm |
-| Bottom vs sides (Q13) | bottom between the sides |
-| Back panel | 6 mm, grooved in |
-| Shutter fit | overlay; gaps 3 mm between, 1.5 mm outer, 1.5 mm top/bottom |
-| Edge band | carcass front edges; shutters all 4 edges; 0.8 mm; not deducted from cut size |
+| Bottom vs sides (Q13) | choice per cabinet; default bottom between the sides |
+| Top of base units | full top panel |
+| Back panel | 6 mm, grooved into the carcass; TV unit: no back |
+| Shutter fit | overlay; laminate / acrylic / PU; gaps 3 mm between, 1.5 mm outer, 1.5 mm top/bottom |
+| Edge band | carcass front edges; shutters all 4 edges; 0.8 mm; cut size reduced by tape thickness |
 | Hinges | soft-close; 2 up to 900 mm door height, 3 up to 1500, 4 up to 2000 |
 | Handles | 1 per shutter / drawer |
 | Legs | 4 per base cabinet |
 | Fillers | always; width = leftover wall length |
-| Sheet | 2440 x 1220 mm, kerf 4 mm, edge trim 0 |
+| Starting sizes | base 720 x 560, wall 720 x 300, tall 2100 x 560, loft 450 x 300 (height x depth) |
+| Sheet | 2440 x 1220 mm, kerf 2.5 mm, edge trim 0 |
 
 ## Panel saw note
 

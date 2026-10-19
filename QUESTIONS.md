@@ -22,29 +22,31 @@ Answers so far, then what is still open. Anything open gets an editable default 
 | 9 | Sheet size | 8 x 4 ft (2440 x 1220 mm) |
 | 10 | Units | mm |
 | 11 | Carcass board | HDHMR, MDF or ply. 18 or 22 mm usually; thickness is an editable box |
-| 12 | Back panel | 6 or 8 mm, grooved in; varies by design (wardrobe, TV unit, kitchen) |
-| 14 | Standard heights / depths | To confirm later; depends on design. Editable defaults |
-| 15 | Shutters | Overlay |
-| 16 | Edge banding | Front edge (fascia) gets edge band tape, 0.8 to 2 mm |
+| 12 | Back panel | 6 or 8 mm, grooved into the carcass, never nailed. TV units usually have no back (the wall is the back) |
+| 13 | Sides vs bottom joint | Depends on design and space; make it a choice per cabinet. Use every available mm |
+| 13b | Top of base units | Full top panel |
+| 14 | Standard heights / depths | No fixed standard; depends on space and the customer. Editable starting sizes |
+| 15 | Shutters | Overlay. Laminate, acrylic or PU (no membrane); chosen per design |
+| 16 | Edge banding | Carcass front edge + all 4 edges of shutters, 0.8 to 2 mm. Cut size is reduced by the tape thickness |
 | 17 | Legs / skirting / plinth, fillers | Legs or skirting, depends on design. Fillers at the walls always |
-| 19 | Hinges | Usually soft-close |
+| 19 | Hinges | Soft-close. Count by door height: 2 up to 900 mm, 3 up to 1500, 4 up to 2000 |
+| 19b | Legs | 4 per base cabinet |
 | 20 | Channels or tandem boxes | Depends on the customer's budget and design; offer both |
 | 21 | Handles | Customer picks; 4 to 12 inches or more |
 | 22 | How he quotes | Per square metre, or material + labour |
 | 23 | GST | 18% |
+| K | Saw cut width (kerf) | 2.5 mm |
 
 ## Still open
 
-- 12b. Back panel: is "between walls / nailed on the wall" about the back panel, or about how the cabinet is fixed in the room? Is a TV unit built with no back panel?
-- 13. Sides on the bottom (bottom 600, sides 702) or bottom between the sides (bottom 564, sides 720)? Same for the top.
-- 15b. Shutter material (laminate / acrylic / PU / membrane ...)
-- 15c. Gaps: between two shutters, at outer edges, top/bottom (default 3 / 1.5 / 1.5 mm)
-- 16b. Do shutters get edge band on all 4 edges? Is the band thickness taken off the cut size?
-- 18. Countertop: in his quote or not?
-- 19b. Hinges per door by door height (default: 2 up to 900 mm, 3 up to 1500, 4 up to 2000)
-- 22b. Per square metre or per square foot? Area of what: the cabinet front (width x height)?
+- 13c. "300 mm at the bottom": what is the 300 mm?
+- 15c. Gaps: between two shutters, at outer edges, top/bottom (default 3 / 1.5 / 1.5 mm). Answer later
+- 16b. Is the carcass front edge also cut smaller by the tape thickness, like shutters?
+- 14b. OK to start from these sizes? Base 720 high x 560 deep, wall 720 x 300, tall 2100 x 560, loft 450 x 300
+- T. Sheet edge trim: how many mm off each edge (default 0)?
+- 22b. Per square metre or per square foot? Area of what: the cabinet front (width x height)? Rate?
 - 23b. Labour charge, margin
+- 18. Countertop: in his quote or not?
 - 24. Price list for boards and hardware
 - 25. 2-3 finished jobs to test against
-- Kerf (saw cut width, default 4 mm) and edge trim of the sheet (default 0)
 - Who exactly: dad and staff only, or customers too?
