@@ -1,0 +1,36 @@
+id,feature,area,priority,original,clone,source,notes
+F01,Create a customer job / project,projects,must,yes,no,src03,
+F02,Enter room walls (length height) in ft/in or mm,space,must,yes,no,src06,size association needs a space to fit into
+F03,Mark openings on a wall (window door pipe),space,should,yes,no,src06,guess: implied by fitting to a space; not stated
+F04,Cabinet library (base wall tall corner drawer units),design,must,yes,no,src03,build from dad's real standard sizes; not their library
+F05,Parametric cabinet: change w/h/d and board thickness,design,must,yes,no,src03,
+F06,Auto-fit cabinets along a wall and show leftover gap / filler,design,must,yes,no,src06,
+F07,Derive every panel from a cabinet,reports,must,yes,no,src03,core rule engine; needs dad's construction rules
+F08,Hardware auto-count (hinges channels handles legs),reports,must,yes,no,src06,
+F09,Cut list per board type and thickness,reports,must,yes,no,src03,
+F10,Hardware list,reports,must,yes,no,src03,
+F11,Quotation (material + hardware + labour + margin),reports,must,yes,no,src03,
+F12,Editable material and hardware price list,settings,must,yes,no,src03,guess: needed for a quote
+F13,Export cut list / quote to PDF and Excel,reports,must,yes,no,src05,
+F14,2D wall elevation drawing,design,should,yes,no,src03,
+F15,Simple 3D view,design,should,yes,no,src03,
+F16,Sheet nesting on 8x4 sheets with kerf and waste %,production,should,yes,no,src04,
+F17,Grain direction in nesting,production,should,yes,no,src04,guess: not stated by vendor; standard practice
+F18,Edge banding per edge and total length,reports,should,yes,no,src05,
+F19,Save a cabinet as a reusable custom module,design,should,yes,no,src03,
+F20,Corner cabinets and angled cuts,design,should,yes,no,src06,
+F21,Panel labels for printing,production,could,yes,no,src04,
+F22,Exploded drawing of each cabinet,design,could,yes,no,src06,
+F23,QR code on cut list opening the cabinet,design,could,yes,no,src05,
+F24,Offcut / leftover stock tracking,production,could,yes,no,src04,
+F25,Multiple rooms per job,projects,could,yes,no,src03,guess
+F26,CNC G-code / saw / PTP / drill export,production,could,yes,skip,src04,only if the shop buys a CNC; machine specific
+F27,Door plank carving CNC,production,could,yes,skip,src09,separate product; needs a CNC
+F28,Photoreal cloud rendering,design,could,yes,skip,src11,big effort; simple 3D is enough
+F29,Production ERP,operations,could,yes,skip,src02,factory scale
+F30,Pack check and box labels,operations,could,yes,skip,src10,factory scale
+F31,Their cloud cabinet model library,design,could,yes,skip,src03,their content; build our own
+X01,Works on a phone at the customer's site,platform,should,no,no,src13,original is Windows desktop only (one device); from the user's brief not from reviews
+X02,Quote PDF ready to send on WhatsApp,sharing,should,no,no,src13,from the user's brief; no review evidence
+X03,Indian hardware and boards built in (18mm ply / HDHMR / laminate / tandem box / soft-close hinge / profile handle) with prices in rupees,settings,must,no,no,src15,the open-source tools are US-centric (face frames / inches / dovetails); this is the gap
+X04,Free with no licence or device limit,platform,must,no,no,src14,original ~US$1500 one device

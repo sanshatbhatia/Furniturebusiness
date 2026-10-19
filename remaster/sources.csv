@@ -1,0 +1,18 @@
+id,kind,url,title,read_at,notes
+src01,marketing,https://www.hisoonsoft.com/,Haixun home,2026-10-19,read via search extracts only; site blocked by this environment's network policy
+src02,marketing,https://www.hisoonsoft.com/product/,Haixun product list,2026-10-19,search extracts
+src03,marketing,https://www.hisoonsoft.com/haixun-furniture-design-system/,Haixun Furniture Design System,2026-10-19,one-key BOM / quote / hardware list; dual database; reusable modules
+src04,marketing,https://www.hisoonsoft.com/haixun-furniture-production-system/,Haixun Furniture Production System,2026-10-19,nesting ~95% claim; CNC output; labels
+src05,changelog,https://www.hisoonsoft.com/latest-news/new-upgrade-on-haixun-v4.0-series.html,V4.0 upgrade notes,2026-10-19,4.0.15 ~2022; edge banding preview; QR on material list; non-produced hardware
+src06,changelog,https://www.hisoonsoft.com/latest-news/speed-4.0-series-of-haixun-furniture-design.html,Speed 4.0 intro,2026-10-19,size association; one-key angled cut; exploded drawings; hardware in one step
+src07,marketing,https://www.hisoonsoft.com/process-flow/,Process flow,2026-10-19,store designer -> factory -> machine
+src08,marketing,https://www.hisoonsoft.com/haixun-plate-cutting-optimization-system/,Plate cutting optimization,2026-10-19,nesting
+src09,marketing,https://www.hisoonsoft.com/haixun-door-plank-carving-system/,Door plank carving,2026-10-19,CNC carving
+src10,marketing,https://www.hisoonsoft.com/haixun-packaging-and-delivery-system/,Packaging and delivery,2026-10-19,pack check; box labels; multi-device sync
+src11,marketing,https://www.hisoonsoft.com/haixun-cloud-rendering-system/,Cloud rendering,2026-10-19,in-store renders
+src12,marketing,https://www.hisoonsoft.com/download/,Download center,2026-10-19,Baidu Netdisk installers; last update Nov 2019
+src13,listing,https://www.indiamart.com/proddetail/haixun-furniture-design-and-production-software-2856877314862.html,IndiaMART reseller (Magnacamz Pune),2026-10-19,Windows only; lifetime; 1 device; 8 GB RAM; free demo; 3.5 stars from 6 ratings (no text seen)
+src14,listing,https://hisoonsoft.en.ec21.com/,EC21 export listing,2026-10-19,~US$1500 FOB; not official pricing
+src15,oss,https://github.com/andyseubert/cabinet-drafter,CabinetDrafter (MIT),2026-10-19,single-HTML cabinet planner; BOM; grain-aware nesting; 3D; mm or inches; license checked
+src16,oss,https://github.com/RajwanYair/WoodworkingShop,WoodworkingShop (MIT),2026-10-19,React PWA; kitchen presets; nesting; PDF/DXF/G-code; license checked
+src17,oss,https://github.com/pelletier197/Panelizer,Panelizer (MIT),2026-10-19,panel furniture designer + sheet cutlist; license checked

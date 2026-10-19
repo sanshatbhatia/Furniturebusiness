@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "target": {
+    "url": "https://www.hisoonsoft.com/",
+    "name": "Haixun"
+  },
+  "mode": "app",
+  "owner": false,
+  "created": "2026-10-19T09:54:25.919Z",
+  "stage": "research",
+  "gates": {
+    "research": {
+      "passed": false,
+      "at": "2026-10-19T09:56:53.968Z",
+      "checks": [
+        {
+          "name": "sources",
+          "status": "pass",
+          "detail": "17 sources logged"
+        },
+        {
+          "name": "reviews",
+          "status": "fail",
+          "detail": "0 reviews with links"
+        },
+        {
+          "name": "pains",
+          "status": "fail",
+          "detail": "no analysis.json"
+        },
+        {
+          "name": "verdict",
+          "status": "pass",
+          "detail": "go, rescoped"
+        },
+        {
+          "name": "measured",
+          "status": "fail",
+          "detail": "nothing measured"
+        },
+        {
+          "name": "recon",
+          "status": "pass",
+          "detail": "recon.md filled in"
+        },
+        {
+          "name": "features",
+          "status": "pass",
+          "detail": "35 features, 12 must-haves"
+        }
+      ]
+    }
+  },
+  "decisions": []
+}
